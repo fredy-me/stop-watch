@@ -17,7 +17,7 @@ body {
     background: #ffffff;
     padding: 40px 50px;
     border-radius: 16px;
-    width: 480px;
+    width: 500px;
     box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
     text-align: center;
 }
@@ -72,11 +72,13 @@ body {
 }
 
 .start {
+    margin-right: 5px;
     background: #00c853;
     color: #fff;
 }
 
 .reset {
+    margin-left: 5px;
     background: #64748b;
     color: #fff;
 }
